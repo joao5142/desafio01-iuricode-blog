@@ -1,5 +1,5 @@
-   window.onload = () => {
-       let iconsHeartSvg = document.querySelectorAll(".svg");
+
+       const iconsHeartSvg = document.querySelectorAll(".svg");
 
        iconsHeartSvg.forEach(icon => {
            icon.addEventListener("click", (e) => {
@@ -7,4 +7,3 @@
                console.log('clicou');
            });
        });
-   }
