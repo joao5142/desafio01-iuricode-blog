@@ -2,7 +2,7 @@
        const iconsHeartSvg = document.querySelectorAll(".svg");
 
        iconsHeartSvg.forEach(icon => {
-           icon.addEventListener("click", (e) => {
+           icon.addEventListener("click", () => {
                icon.classList.toggle("active");
               
            });
