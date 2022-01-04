@@ -8,4 +8,4 @@
  </div>
 <h2>Preview</h2>
 <img margin-bottom="20px" src="assets/img/laptop.jpg">
-<h4  style="display: inline_block">Visualização do site :</h4><a   style="display: inline_block" target="_blank" href="">Preview no Netlify</a>
+<h4  style="display: inline_block">Visualização do site :</h4><a   style="display: inline_block" target="_blank" href="https://codelandiablognews.netlify.app/">Preview no Netlify</a>
