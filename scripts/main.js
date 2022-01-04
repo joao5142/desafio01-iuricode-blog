@@ -4,6 +4,6 @@
        iconsHeartSvg.forEach(icon => {
            icon.addEventListener("click", (e) => {
                icon.classList.toggle("active");
-               console.log('clicou');
+              
            });
        });
